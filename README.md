@@ -1,9 +1,9 @@
 # Guia para crear una página web en Github Pages
 Usaremos [Github Pages](https://pages.github.com), para ello tendremos que crear un [nuevo repositorio](https://github.com/new).
 
-1. [Imagen](https://i.imgur.com/8BHvgpI.png) Despues de crearlo tendremos que irnos a las opciones(Settings) del repositorio desde las pestañas que hay en la parte superior.
-2. [Imagen](https://i.imgur.com/aU83RVE.png) Ahora en el menú de la izquierda hay que bajar un poco hasta encontrar "Pages" y hacer click.
-3. [Imagen](https://i.imgur.com/Nh7BBp7.png) En "Source" abrimos el desplegable de "Branch" y seleccionamos "Main" y hacemos click en "Save".
+1. [Imagen](https://i.imgur.com/8BHvgpI.png){:target="_blank"} Despues de crearlo tendremos que irnos a las opciones(Settings) del repositorio desde las pestañas que hay en la parte superior.
+2. [Imagen](https://i.imgur.com/aU83RVE.png){:target="_blank"} Ahora en el menú de la izquierda hay que bajar un poco hasta encontrar "Pages" y hacer click.
+3. [Imagen](https://i.imgur.com/Nh7BBp7.png){:target="_blank"} En "Source" abrimos el desplegable de "Branch" y seleccionamos "Main" y hacemos click en "Save".
 4. Os aparecerá un aviso/mensaje en la parte superior diciendo:
 5. "Your site is published at https://TUNOMBRE.github.io/NOMBRE_DEL_REPOSITIORIO/".
 6. Desde aquí teneis que empezar a aplicar lo que sabeis de HTML/CSS/Javascript.
