@@ -13,7 +13,7 @@ Usaremos [Github Pages](https://pages.github.com), para ello tendremos que crear
 
 Ahora podemos usar diferentes maneras de editar estos archivos para no tener que hacerlo desde Github. 
 
-El propio Github tiene un programa en el que puedes "vincular" unos archivos locales (en tu ordenador) al repositorio y cada vez que hagas una modificación a estos el programa te avisa y puedes "subirlo" o como se dice, hacer "commit".
+El propio Github tiene un programa en el que puedes "vincular" unos archivos locales (en tu ordenador) al repositorio y cada vez que hagas una modificación a estos el programa te avisa y puedes "subirlo" o como se dice, hacer "commit" y "push".
 
 Otros programas como el Eclipse o el VSC también tienen funcionalidades para esto mismo (que es lo que usa Javier) depende de vosotros lo que deseeis usar, hay muchisimos tutoriales de como hacerlo en Youtube.
 
