@@ -8,6 +8,7 @@ Usaremos [Github Pages](https://pages.github.com), para ello tendremos que crear
 5. "Your site is published at https://TUNOMBRE.github.io/NOMBRE_DEL_REPOSITIORIO/".
 6. Desde aquí teneis que empezar a aplicar lo que sabeis de HTML/CSS/Javascript.
 7. Teneis que saber que Github Pages **NO** admite lenguajes de servidor (php, ruby, ...).
+8. Cuidado a la hora de crear el index.html, no lo leerá si empieza con i mayúscula ([ASI NO]Index.html[ASI NO])!!
 
 **AVISO:** Es posible que tarde un poco en aparecer la página y en mostrar cambios si haceis cambios de código desde el editor de Github. Por este motivo se usan editores de código (Visual Studio Code, Eclipse, ...)
 
